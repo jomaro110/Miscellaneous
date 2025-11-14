@@ -376,7 +376,7 @@ Consider contributing these patches upstream to the iced project:
 
 ## Version History
 
-- **2024-11**: Initial implementation for alaraby_tv_file_manager
+- **2024-11**: Initial implementation for private project
 - **Iced v0.12**: Patches tested and working
 - **Glyphon v0.5.0**: Compatible version
 
